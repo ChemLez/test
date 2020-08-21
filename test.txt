@@ -3,10 +3,4 @@
 初步练习的的。 
 初步练习的的。 
 初步练习的的。
-<<<<<<< HEAD
-create a new branch is quick And simple.
-create a new branch is quick & simple.
-=======
-create a new branch is quick And simple.feature1
->>>>>>> feature1
-create 1
+create a new branch is quick and simple. 
