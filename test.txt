@@ -4,3 +4,4 @@ create a new branch is quick and simple
 添加一个dev分支测试
 create a new branch is quick and simple
 修改1
+分支管理策略
